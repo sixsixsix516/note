@@ -1,0 +1,141 @@
+{
+  "main": {
+    "id": "a10b82134619d559",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ccfb454b53d3f20",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "产品/考虑用户手指.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "69e8c9a531262be9",
+    "type": "split",
+    "children": [
+      {
+        "id": "84720bbc5c1c1702",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0dc30409ef744f5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "31bed29b3a9fe296",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9ccf76e35f8cc168",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 521.4999980926514
+  },
+  "right": {
+    "id": "8eb43bccaff4a86c",
+    "type": "split",
+    "children": [
+      {
+        "id": "92ac8c4672757504",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d78a35fffa00571",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "产品/考虑用户手指.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6f905934ad978792",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "产品/考虑用户手指.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "76e72320f1e11600",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7e2084af8c03a70b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "产品/考虑用户手指.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "7ccfb454b53d3f20",
+  "lastOpenFiles": [
+    "产品/不需要的不用显示.md",
+    "产品/考虑用户手指.md",
+    "卡片笔记写作法.md",
+    "写作/写作的本质、目的.md",
+    "写作/卢曼笔记法里大脑的作用.md",
+    "图片/产品/3706332bd03d2e246a51ba4975b6b32.jpg",
+    "图片/Untitled.md"
+  ]
+}
