@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "技术/后台管理 low code.md",
+            "file": "产品/考虑用户手指.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "技术/后台管理 low code.md",
+                "file": "产品/考虑用户手指.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "技术/后台管理 low code.md",
+                "file": "产品/考虑用户手指.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "技术/后台管理 low code.md"
+                "file": "产品/考虑用户手指.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "1135f3eaa5b51101",
   "lastOpenFiles": [
-    "文献笔记/写作/卡片笔记写作法/阅读时记笔记.md",
-    "哲学/论独立思考.md",
-    "哲学/我们为何太在意结果.md",
-    "写作/写作的本质、目的.md",
-    "写作/卢曼笔记法里大脑的作用.md",
-    "文献笔记/写作/卡片笔记写作法/全神贯注每一项任务.md",
-    "文献笔记/写作/卡片笔记写作法/不强迫自己.md",
-    "文献笔记/哲学/叔本华 - 幸福 - 避免痛苦.md",
+    "产品/不需要的不用显示.md",
+    "产品/考虑用户手指.md",
+    "技术/后台管理 low code.md",
     "卡片笔记写作法.md",
-    "文献笔记/Untitled.md"
+    "文献笔记/写作/卡片笔记写作法/全神贯注每一项任务.md",
+    "文献笔记/写作/卡片笔记写作法/阅读时记笔记.md",
+    "文献笔记/写作/卡片笔记写作法/不强迫自己.md",
+    "Untitled.md",
+    "哲学/论独立思考.md",
+    "哲学/我们为何太在意结果.md"
   ]
 }
